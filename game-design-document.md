@@ -111,3 +111,9 @@ Godot game engine, Affinity Designer for art, PureRef for mood board
 ## Game Art
 
 Pixel art, dark, (maybe even horror movie inspired) color scheme
+
+### a) Possible color schemes
+
+- [Punolite Palette](https://lospec.com/palette-list/punolite)
+- [TY - Industrial Factory 16 Palette](https://lospec.com/palette-list/ty-industrial-factory-16)
+- [TY - Murder Mystery 16 Palette](https://lospec.com/palette-list/ty-murder-mystery-16)
