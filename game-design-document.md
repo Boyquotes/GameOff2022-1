@@ -1,16 +1,18 @@
 # Game Design Document (Credits: [gamedevpl/game-design-document](https://github.com/gamedevpl/game-design-document))
+
 ## Title Page
-   
-Currently, the game will be called *MacCliché*.
+
+Currently, the game will be called _MacCliché_.
 Sub-title and/or catchy quote might be following.
 
 ## Overview of the Game
+
 ### a) Game Concept
 
-The game will be a single player experience where you have to control the main character called "MacCliché" on his new mission. He must enter the secret hideout of  bad guy named Dr. Raine C. Adamson, secure a stolen virus and arrest the boss and his accomplices.
+The game will be a single player experience where you have to control the main character called "MacCliché" on his new mission. He must enter the secret hideout of bad guy named Dr. Raine C. Adamson, secure a stolen virus and arrest the boss and his accomplices.
 
 During that mission, the player will encounter a lot of old hollywood movie/game clichés. They might want to count them and compare them to a list of the clichés I put in the game. Are they able to find all of them?
-       
+
 ### b) Genre
 
 The genre is going to be a 2d pixel-art side-scroller.
@@ -50,6 +52,7 @@ I'm currently going for a static camera showing the entire room of the level at 
 Volume of music/sound effetcs can be chosen in the main menu.
 
 ## Story, Setting and Characters
+
 ### a) Story and Narrative
 
 The FBI found out that a bad guy named Dr. Raine C. Adamson stole a test tube of anthrax from a laboratory. As if that wasn't bad enough, a particularly fast-spreading and very deadly variant was being bred in this research facility in order to invent a vaccine against it. It is precisely this variant that has gone missing; according to the FBI, the doctor and his henchmen want to use it to build a dirty bomb. That's why the Phoenix Foundation has been tasked with sending an agent to Mr. Adamson's secret hideout, securing the virus and arresting the boss and his accomplices.
@@ -57,18 +60,21 @@ The FBI found out that a bad guy named Dr. Raine C. Adamson stole a test tube of
 The backstory is to be told as cutscenes. After that, there are more cutscenes as MacCliché jumps into his jeep and drives to the secret hideout. The game itself starts at the point where MacCliché stands in front of the factory that serves as a hideout.
 
 ### b) Game World
+
 1. General look and feel of world
-    
-    Very dark (it's night, raining and lightning!), almost like a horror movie.
+
+   Very dark (it's night, raining and lightning!), almost like a horror movie.
+
 2. Areas
 
-    The mission is splitted into levels, each taking place in one room of the building. Each door functions as a check point.
+   The mission is splitted into levels, each taking place in one room of the building. Each door functions as a check point.
+
 ### c) Characters
 
- - Pete, head of the Phoenix Foundation
- - MacCliché, agent
- - Dr. Raine C. Adamson, the bad guy
- - Some other bad guys, mainly guards securing the secret hideout
+- Pete, head of the Phoenix Foundation
+- MacCliché, agent
+- Dr. Raine C. Adamson, the bad guy
+- Some other bad guys, mainly guards securing the secret hideout
 
 ### d) Weapons & Items
 
@@ -115,5 +121,5 @@ Pixel art, dark, (maybe even horror movie inspired) color scheme
 ### a) Possible color schemes
 
 - [Punolite Palette](https://lospec.com/palette-list/punolite)
-- [TY - Industrial Factory 16 Palette](https://lospec.com/palette-list/ty-industrial-factory-16)
-- [TY - Murder Mystery 16 Palette](https://lospec.com/palette-list/ty-murder-mystery-16)
+- [URBEX 16 Palette](https://lospec.com/palette-list/urbex-16)
+- [DarkVania Palette](https://lospec.com/palette-list/darkvania)
