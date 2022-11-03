@@ -68,7 +68,7 @@ The backstory is to be told as cutscenes. After that, there are more cutscenes a
  - Pete, head of the Phoenix Foundation
  - MacCliché, agent
  - Dr. Raine C. Adamson, the bad guy
- - Some other ba guys, mainly guards securing the secret hideout
+ - Some other bad guys, mainly guards securing the secret hideout
 
 ### d) Weapons & Items
 
