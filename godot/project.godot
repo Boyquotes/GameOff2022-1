@@ -14,6 +14,10 @@ config/name="MacCliché"
 run/main_scene="res://scenes/start_scene.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+globals="*res://scripts/globals.gd"
+
 [display]
 
 window/dpi/allow_hidpi=true
@@ -49,6 +53,7 @@ jump={
 2d_physics/layer_2="enemies"
 2d_physics/layer_3="items"
 2d_physics/layer_4="world"
+2d_physics/layer_5="doors"
 
 [physics]
 
